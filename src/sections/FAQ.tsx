@@ -29,7 +29,7 @@ const faqs = [
   {
     question: 'Which areas do you cover?',
     answer:
-      "We're based in PLACEHOLDER_AREA (SE23) and serve homeowners across South East London, including Sydenham, Dulwich, Crystal Palace, Penge, and surrounding areas.",
+      "We're based in PLACEHOLDER_AREA (PLACEHOLDER_POSTCODE) and serve homeowners across PLACEHOLDER_REGION, including Sydenham, Dulwich, Crystal Palace, Penge, and surrounding areas.",
   },
 ];
 

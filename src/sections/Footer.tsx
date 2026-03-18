@@ -163,7 +163,7 @@ export function Footer() {
             <div className="flex items-center gap-4 text-sm text-slate-500">
               <span>PLACEHOLDER_AREA</span>
               <span>•</span>
-              <span>SE23</span>
+              <span>PLACEHOLDER_POSTCODE</span>
               <span>•</span>
               <span>SE London</span>
             </div>

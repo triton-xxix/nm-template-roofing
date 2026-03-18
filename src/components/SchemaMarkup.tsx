@@ -13,9 +13,9 @@ export function SchemaMarkup() {
       address: {
         '@type': 'PostalAddress',
         streetAddress: '3 Tynemouth Rd',
-        addressLocality: 'Forest Hill',
+        addressLocality: 'PLACEHOLDER_AREA',
         addressRegion: 'London',
-        postalCode: 'SE23 3QT',
+        postalCode: 'PLACEHOLDER_POSTCODE',
         addressCountry: 'GB',
       },
       geo: {

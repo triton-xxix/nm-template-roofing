@@ -144,7 +144,7 @@ export function Hero() {
               {/* Subheadline */}
               <p className="hero-subheadline text-lg sm:text-xl text-white/80 max-w-xl">
                 Reliable repairs, new roofs, and flat roofing across PLACEHOLDER_AREA
-                and South East London. Fully insured with free quotes.
+                and surrounding areas. Fully insured with free quotes.
               </p>
 
               {/* Trust Row */}

@@ -119,7 +119,7 @@ export function About() {
               <span className="text-amber-400">PLACEHOLDER_BUSINESS_NAME</span>
             </h2>
             <p className="animate-item text-lg text-white/80 mb-8">
-              We're based in PLACEHOLDER_AREA (SE23) and serve homeowners across
+              We're based in PLACEHOLDER_AREA (PLACEHOLDER_POSTCODE) and serve homeowners across
               South East London. Our work is tidy, on time, and backed by clear
               communication. With years of experience and a commitment to
               quality, we've built a reputation as the trusted local roofers.
@@ -196,7 +196,7 @@ export function About() {
               </div>
               <div className="bg-white/10 backdrop-blur-md rounded-xl p-4 text-center">
                 <div className="text-2xl lg:text-3xl font-bold text-amber-400">
-                  SE23
+                  PLACEHOLDER_POSTCODE
                 </div>
                 <div className="text-white/80 text-xs lg:text-sm">
                   Based Here
