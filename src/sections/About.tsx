@@ -120,7 +120,7 @@ export function About() {
             </h2>
             <p className="animate-item text-lg text-white/80 mb-8">
               We're based in PLACEHOLDER_AREA (PLACEHOLDER_POSTCODE) and serve homeowners across
-              South East London. Our work is tidy, on time, and backed by clear
+              PLACEHOLDER_REGION. Our work is tidy, on time, and backed by clear
               communication. With years of experience and a commitment to
               quality, we've built a reputation as the trusted local roofers.
             </p>

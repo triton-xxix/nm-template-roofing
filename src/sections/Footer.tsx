@@ -165,7 +165,7 @@ export function Footer() {
               <span>•</span>
               <span>PLACEHOLDER_POSTCODE</span>
               <span>•</span>
-              <span>SE London</span>
+              <span>PLACEHOLDER_REGION</span>
             </div>
           </div>
         </div>
